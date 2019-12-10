@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: mikehoustonrepository
+datasources:
+  default:
+    url: jdbc:postgresql://localhost/test
+    username: sa
+    password: ''
+    schema-generate: CREATE
+    dialect: POSTGRES
