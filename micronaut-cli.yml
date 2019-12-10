@@ -1,5 +1,5 @@
 profile: service
 defaultPackage: mikehoustonrepository
 ---
-testFramework: junit
-sourceLanguage: java
+testFramework: spock
+sourceLanguage: groovy
